@@ -35,3 +35,5 @@ Plugin 'markvincze/panda-vim'
 
 color panda
 " Other: you can probably find out as they all seems to work the same way :)
+
+
